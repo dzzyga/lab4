@@ -1,0 +1,20 @@
+*{
+    font-family: 'Roboto', 
+    sans-serif; 
+}
+#btn{
+	margin-left: 2%;
+	transition-duration: 0.4s;
+}
+#btn:hover {
+    background-color: #F819E6;
+    color: white;
+}
+li{
+	padding: 0.29%;
+}
+#main{
+	text-align: center;
+	 border: 3px solid green;
+  padding: 10px;
+}
